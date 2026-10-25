@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "type": "module",
+  "main": "colony.test.mjs",
+  "description": "Lets `node --test skill/test` resolve this folder to its test entry (Node 22 treats a directory argument as a module path)."
+}
